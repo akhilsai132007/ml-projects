@@ -17,3 +17,17 @@ A beginner Machine Learning project using:
 - Price Prediction
 
 Folder: `01-house-price-prediction`
+
+### 02. Student Score Prediction
+
+A beginner Machine Learning project using:
+
+- Pandas
+- Train/Test Split
+- Linear Regression
+- Model Evaluation
+- MAE, MSE, R² Score
+- User Input Prediction
+
+Folder: `02-student-score-prediction`
+
