@@ -1,108 +1,202 @@
 # ML Projects 🚀
 
-Building Machine Learning skills one project at a time.
-
-A collection of beginner-friendly Machine Learning projects created during my journey into AI, Data Science, and Predictive Analytics.
-
-## 📚 What I Learned
-
-- Data Loading with Pandas
-- Data Preprocessing
-- Train/Test Split
-- Linear Regression
-- Model Training
-- Model Evaluation (MAE, MSE, R² Score)
-- Data Visualization with Matplotlib
-- Real-World Predictions
+A collection of Machine Learning projects built while learning and practicing core Machine Learning concepts using Python, Pandas, Matplotlib, and Scikit-Learn.
 
 ---
 
-# 🏠 Projects
+## Learning Journey
 
-## 1. House Price Prediction
+This repository documents my Machine Learning journey from basic regression models to classification projects.
 
-Predict house prices based on:
+Topics covered:
 
-- House Size
-- Number of Bedrooms
+* Data Analysis with Pandas
+* Data Visualization with Matplotlib
+* Data Cleaning
+* Feature Engineering
+* Train/Test Split
+* Linear Regression
+* Logistic Regression
+* Model Evaluation
+* Classification
+* Prediction Systems
 
-### Technologies Used
+---
 
-- Pandas
-- Scikit-Learn
-- Linear Regression
-- Train/Test Split
+## Projects
 
-### Features
+### 01. House Price Prediction 🏠
 
-✅ Data Loading
+Predict house prices using:
 
-✅ Model Training
+* House Size
+* Number of Bedrooms
 
-✅ Price Prediction
+Concepts Used:
+
+* Pandas
+* Train/Test Split
+* Linear Regression
+* MAE
+* MSE
+* R² Score
+
+---
+
+### 02. Student Score Prediction 📚
+
+Predict student scores based on study hours.
+
+Concepts Used:
+
+* CSV Loading
+* Linear Regression
+* Model Evaluation
+* Scatter Plot
+* Regression Line
+* User Input Prediction
+
+---
+
+### 03. Salary Prediction 💰
+
+Predict employee salaries using years of experience.
+
+Concepts Used:
+
+* Linear Regression
+* Train/Test Split
+* MAE
+* MSE
+* R² Score
+* User Input Prediction
+* Scatter Plot
+* Regression Line Visualization
+
+---
+
+### 04. Student Pass Prediction 🎯
+
+Predict whether a student will pass or fail.
+
+Concepts Used:
+
+* Classification
+* Binary Classification
+* Logistic Regression
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+* User Input Prediction
+* Data Visualization
+
+---
+
+## Repository Structure
+
+ml-projects/
+
+├── 01-house-price-prediction/
+
+├── 02-student-score-prediction/
+
+├── 03-salary-prediction/
+
+├── 04-student-pass-prediction/
+
+└── README.md
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+
+---
+
+## Skills Practiced
+
+### Data Analysis
+
+* DataFrames
+* CSV Handling
+* Filtering
+* GroupBy
+
+### Data Cleaning
+
+* Missing Values
+* Duplicates
+* Outlier Detection
+
+### Machine Learning
+
+* Feature Engineering
+* Train/Test Split
+* Linear Regression
+* Logistic Regression
+* Model Evaluation
+
+### Visualization
+
+* Scatter Plots
+* Regression Lines
+* Performance Analysis
+
+---
+
+## Current Progress
+
+Completed:
+
+✅ NumPy
+
+✅ Pandas
+
+✅ Matplotlib
+
+✅ Data Cleaning
+
+✅ Feature Engineering
+
+✅ Linear Regression
+
+✅ Logistic Regression
+
+✅ Classification
 
 ✅ Model Evaluation
 
-Folder: `01-house-price-prediction`
+✅ 4 Machine Learning Projects
 
 ---
 
-## 2. Student Score Prediction
+## Upcoming Projects
 
-Predict student exam scores based on study hours.
-
-### Technologies Used
-
-- Pandas
-- Scikit-Learn
-- Linear Regression
-- Matplotlib
-
-### Features
-
-✅ Score Prediction
-
-✅ Model Evaluation
-
-✅ Scatter Plot Visualization
-
-✅ Regression Line Visualization
-
-Folder: `02-student-score-prediction`
+* Car Price Prediction
+* Employee Attrition Prediction
+* Customer Churn Prediction
+* Loan Approval Prediction
+* End-to-End Machine Learning Projects
 
 ---
 
-## 3. Salary Prediction
+## Author
 
-Predict employee salary based on years of experience.
+Akhil Sai (Captain)
 
-### Technologies Used
+CSE'28 Student
 
-- Pandas
-- Scikit-Learn
-- Linear Regression
-
-### Features
-
-✅ Salary Prediction
-
-✅ User Input Prediction
-
-✅ Model Evaluation
-
-✅ Real-World Dataset Practice
-
-Folder: `03-salary-prediction`
+Backend Development • Machine Learning • Open Source • GitHub Portfolio Building
 
 ---
 
-## 🛠️ Tech Stack
+### One Piece Log 🏴‍☠️
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
+Every project is a new island on the Grand Line of Machine Learning.
 
----
-
+From Regression Island to Classification Island, the journey continues toward becoming a skilled Machine Learning Engineer.
