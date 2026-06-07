@@ -106,13 +106,3 @@ Folder: `03-salary-prediction`
 
 ---
 
-## 🎯 Learning Goal
-
-To build a strong foundation in:
-
-- Machine Learning
-- Data Analytics
-- Model Evaluation
-- Price Prediction
-
-Folder: `01-house-price-prediction`
