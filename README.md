@@ -113,20 +113,6 @@ To build a strong foundation in:
 - Machine Learning
 - Data Analytics
 - Model Evaluation
-- Data Visualization
-- Real-World AI Projects
+- Price Prediction
 
----
-
-## 🚀 Future Projects
-
-- Employee Attrition Prediction
-- Car Price Prediction
-- Diabetes Prediction
-- Titanic Survival Prediction
-- Customer Churn Prediction
-- Movie Recommendation System
-
----
-
-### Built by Captain Akhil ⚓
+Folder: `01-house-price-prediction`
