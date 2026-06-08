@@ -1,7 +1,6 @@
 # ML Projects 🚀
 
 A collection of Machine Learning projects built while learning and practicing core Machine Learning concepts using Python, Pandas, Matplotlib, and Scikit-Learn.
-
 ---
 
 ## Learning Journey
