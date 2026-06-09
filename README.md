@@ -10,18 +10,13 @@ This repository documents my Machine Learning journey through the Grand Line of 
 
 Every island in this repository represents a completed Machine Learning project and a milestone in my learning journey.
 
-From Regression to Classification, from Clustering to Dimensionality Reduction, each project has helped me understand how Machine Learning models learn from data and solve real-world problems.
+From Regression to Classification, from Clustering to Dimensionality Reduction, from Model Building to Model Evaluation, each project has helped me understand how Machine Learning models learn from data and solve real-world problems.
 
 ---
 
 # 🏝️ Islands Conquered
 
 ## 🏠 01. House Price Prediction Island
-
-Predict house prices using:
-
-* House Size
-* Number of Bedrooms
 
 ### Powers Unlocked
 
@@ -36,8 +31,6 @@ Predict house prices using:
 
 ## 📚 02. Student Score Prediction Island
 
-Predict student scores based on study hours.
-
 ### Powers Unlocked
 
 * Linear Regression
@@ -50,8 +43,6 @@ Predict student scores based on study hours.
 
 ## 💰 03. Salary Prediction Island
 
-Predict employee salaries using years of experience.
-
 ### Powers Unlocked
 
 * Linear Regression
@@ -62,8 +53,6 @@ Predict employee salaries using years of experience.
 ---
 
 ## 🎯 04. Student Pass Prediction Island
-
-Predict whether a student will pass or fail.
 
 ### Powers Unlocked
 
@@ -76,8 +65,6 @@ Predict whether a student will pass or fail.
 ---
 
 ## 🌳 05. Student Performance Prediction Island
-
-Predict student success using a Decision Tree Classifier.
 
 ### Features
 
@@ -96,8 +83,6 @@ Predict student success using a Decision Tree Classifier.
 ---
 
 ## 🌲 06. Academic Success Predictor Island
-
-Predict student success using a Random Forest Classifier.
 
 ### Features
 
@@ -118,7 +103,7 @@ Predict student success using a Random Forest Classifier.
 
 ## 👥 07. Customer Segmentation Island
 
-Group customers based on:
+### Features
 
 * Age
 * Annual Income
@@ -142,8 +127,6 @@ Group customers based on:
 
 ## 🧠 08. Customer Segmentation with PCA Island
 
-Reduce dimensions using PCA and perform clustering on simplified customer data.
-
 ### Features
 
 * Age
@@ -161,6 +144,30 @@ Reduce dimensions using PCA and perform clustering on simplified customer data.
 * PCA Visualization
 * K-Means + PCA Integration
 * Clustering Optimization
+
+---
+
+## 🏝️ 09. Student Performance Model Comparison Island
+
+Compare multiple Machine Learning models to identify the most reliable classifier.
+
+### Features
+
+* Hours Studied
+* Attendance
+* Assignments Completed
+
+### Powers Unlocked
+
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
+* Accuracy Score
+* Cross Validation
+* Model Reliability Analysis
+* Model Comparison
+* Performance Visualization
+* Best Model Selection
 
 ---
 
@@ -183,6 +190,13 @@ Reduce dimensions using PCA and perform clustering on simplified customer data.
 ### Dimensionality Reduction Techniques
 
 * Principal Component Analysis (PCA)
+
+### Model Evaluation Techniques
+
+* Cross Validation
+* Accuracy Analysis
+* Model Comparison
+* Reliability Analysis
 
 ---
 
@@ -207,6 +221,7 @@ Reduce dimensions using PCA and perform clustering on simplified customer data.
 * Customer Segmentation Visualizations
 * Elbow Method Graphs
 * PCA Visualizations
+* Model Comparison Charts
 * Data Insights
 
 ### Machine Learning
@@ -216,6 +231,7 @@ Reduce dimensions using PCA and perform clustering on simplified customer data.
 * Model Training
 * Model Evaluation
 * Prediction Systems
+* Classification
 * Clustering
 * Customer Segmentation
 
@@ -237,6 +253,14 @@ Reduce dimensions using PCA and perform clustering on simplified customer data.
 * Explained Variance
 * Principal Components
 * Variance Analysis
+
+### Model Evaluation
+
+* Cross Validation
+* Accuracy Analysis
+* Reliability Analysis
+* Model Comparison
+* Best Model Selection
 
 ---
 
@@ -263,6 +287,7 @@ ml-projects/
 ├── 🌲 06-academic-success-predictor/
 ├── 👥 07-customer-segmentation/
 ├── 🧠 08-customer-segmentation-pca/
+├── 🏝️ 09-student-performance-model-comparison/
 └── README.md
 ```
 
@@ -272,7 +297,7 @@ ml-projects/
 
 ### Projects Completed
 
-✅ 8 Projects
+✅ 9 Projects
 
 ### Algorithms & Techniques Mastered
 
@@ -288,6 +313,8 @@ ml-projects/
 
 ✅ Principal Component Analysis (PCA)
 
+✅ Cross Validation
+
 ### Skills Earned
 
 ✅ Data Analysis
@@ -302,11 +329,17 @@ ml-projects/
 
 ✅ Prediction Systems
 
-✅ Customer Segmentation
+✅ Classification
 
 ✅ Clustering
 
+✅ Customer Segmentation
+
 ✅ Dimensionality Reduction
+
+✅ Model Comparison
+
+✅ Reliability Analysis
 
 ---
 
@@ -334,13 +367,25 @@ ml-projects/
 
 ✅ PCA
 
+### Model Evaluation
+
+✅ Cross Validation
+
+✅ Model Comparison
+
+✅ Reliability Analysis
+
 ### Portfolio Status
 
-🏝️ Islands Conquered: 8
+🏝️ Islands Conquered: 9
 
 ⚔️ Core Algorithms Mastered: 5
 
-🧠 Advanced Techniques Learned: PCA
+🧠 Advanced Techniques Learned:
+
+* PCA
+* Cross Validation
+* Model Comparison
 
 ---
 
@@ -349,11 +394,11 @@ ml-projects/
 * KNN Island
 * Naive Bayes Island
 * SVM Island
+* Feature Selection Island
 * Car Price Prediction Island
 * Customer Churn Island
 * Loan Approval Island
 * Employee Attrition Island
-* Advanced Random Forest Island
 
 ---
 
