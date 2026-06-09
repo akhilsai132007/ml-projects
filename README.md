@@ -114,6 +114,30 @@ Predict student success using a Random Forest Classifier.
 
 ---
 
+## 👥 07. Customer Segmentation Island
+
+Group customers based on:
+
+* Age
+* Annual Income
+* Spending Score
+
+### Powers Unlocked
+
+* Unsupervised Learning
+* K-Means Clustering
+* StandardScaler
+* Cluster Formation
+* Centroids
+* Elbow Method
+* Inertia
+* Silhouette Score
+* Customer Segmentation
+* Cluster Analysis
+* Data Visualization
+
+---
+
 # ⚔️ Fighting Styles Mastered
 
 ### Regression Techniques
@@ -125,6 +149,10 @@ Predict student success using a Random Forest Classifier.
 * Logistic Regression
 * Decision Tree Classifier
 * Random Forest Classifier
+
+### Clustering Techniques
+
+* K-Means Clustering
 
 ---
 
@@ -146,6 +174,8 @@ Predict student success using a Random Forest Classifier.
 
 * Scatter Plots
 * Regression Lines
+* Customer Segmentation Visualizations
+* Elbow Method Graphs
 * Data Insights
 
 ### Machine Learning
@@ -155,6 +185,19 @@ Predict student success using a Random Forest Classifier.
 * Model Training
 * Model Evaluation
 * Prediction Systems
+* Clustering
+* Customer Segmentation
+
+### Unsupervised Learning
+
+* K-Means Clustering
+* StandardScaler
+* Centroids
+* Cluster Formation
+* Elbow Method
+* Inertia
+* Silhouette Score
+* Cluster Analysis
 
 ---
 
@@ -179,6 +222,7 @@ ml-projects/
 ├── 🎯 04-student-pass-prediction/
 ├── 🌳 05-student-performance-prediction/
 ├── 🌲 06-academic-success-predictor/
+├── 👥 07-customer-segmentation/
 └── README.md
 ```
 
@@ -188,7 +232,7 @@ ml-projects/
 
 ### Projects Completed
 
-✅ 6 Projects
+✅ 7 Projects
 
 ### Algorithms Mastered
 
@@ -199,6 +243,8 @@ ml-projects/
 ✅ Decision Tree Classifier
 
 ✅ Random Forest Classifier
+
+✅ K-Means Clustering
 
 ### Skills Earned
 
@@ -212,15 +258,22 @@ ml-projects/
 
 ✅ Model Evaluation
 
+✅ Prediction Systems
+
+✅ Customer Segmentation
+
+✅ Clustering
+
 ---
 
 # 🚢 Next Islands On The Horizon
 
+* KNN Island
 * Car Price Prediction Island
 * Customer Churn Island
 * Loan Approval Island
 * Employee Attrition Island
-* KNN Island
+* PCA Island
 * Advanced Random Forest Island
 
 ---
