@@ -1,14 +1,16 @@
 # 🏴‍☠️ ML Projects: Voyage Through the Grand Line 🚀
 
-Welcome aboard!
+Welcome aboard, fellow adventurer!
 
-This repository contains Machine Learning projects built while sailing through the Grand Line of AI and Data Science. Each project represents a new island conquered, a new skill learned, and another step toward becoming a stronger Machine Learning Engineer.
+This repository documents my Machine Learning journey through the Grand Line of AI and Data Science. Every project represents a conquered island, a newly learned skill, and another step toward becoming a stronger Machine Learning Engineer.
 
 ---
 
 # 🌊 The Voyage So Far
 
 Every island in this repository represents a completed Machine Learning project and a milestone in my learning journey.
+
+From Regression to Classification, from Clustering to Dimensionality Reduction, each project has helped me understand how Machine Learning models learn from data and solve real-world problems.
 
 ---
 
@@ -138,6 +140,30 @@ Group customers based on:
 
 ---
 
+## 🧠 08. Customer Segmentation with PCA Island
+
+Reduce dimensions using PCA and perform clustering on simplified customer data.
+
+### Features
+
+* Age
+* Annual Income
+* Spending Score
+
+### Powers Unlocked
+
+* Principal Component Analysis (PCA)
+* Feature Reduction
+* Variance Analysis
+* Principal Components
+* Explained Variance Ratio
+* Dimensionality Reduction
+* PCA Visualization
+* K-Means + PCA Integration
+* Clustering Optimization
+
+---
+
 # ⚔️ Fighting Styles Mastered
 
 ### Regression Techniques
@@ -153,6 +179,10 @@ Group customers based on:
 ### Clustering Techniques
 
 * K-Means Clustering
+
+### Dimensionality Reduction Techniques
+
+* Principal Component Analysis (PCA)
 
 ---
 
@@ -176,6 +206,7 @@ Group customers based on:
 * Regression Lines
 * Customer Segmentation Visualizations
 * Elbow Method Graphs
+* PCA Visualizations
 * Data Insights
 
 ### Machine Learning
@@ -198,6 +229,14 @@ Group customers based on:
 * Inertia
 * Silhouette Score
 * Cluster Analysis
+
+### Dimensionality Reduction
+
+* Principal Component Analysis (PCA)
+* Feature Reduction
+* Explained Variance
+* Principal Components
+* Variance Analysis
 
 ---
 
@@ -223,6 +262,7 @@ ml-projects/
 ├── 🌳 05-student-performance-prediction/
 ├── 🌲 06-academic-success-predictor/
 ├── 👥 07-customer-segmentation/
+├── 🧠 08-customer-segmentation-pca/
 └── README.md
 ```
 
@@ -232,9 +272,9 @@ ml-projects/
 
 ### Projects Completed
 
-✅ 7 Projects
+✅ 8 Projects
 
-### Algorithms Mastered
+### Algorithms & Techniques Mastered
 
 ✅ Linear Regression
 
@@ -245,6 +285,8 @@ ml-projects/
 ✅ Random Forest Classifier
 
 ✅ K-Means Clustering
+
+✅ Principal Component Analysis (PCA)
 
 ### Skills Earned
 
@@ -264,16 +306,53 @@ ml-projects/
 
 ✅ Clustering
 
+✅ Dimensionality Reduction
+
+---
+
+# 🌟 Captain's Progress
+
+### ML Foundations
+
+✅ Data Analysis
+
+✅ Data Cleaning
+
+✅ Visualization
+
+### Supervised Learning
+
+✅ Regression
+
+✅ Classification
+
+### Unsupervised Learning
+
+✅ Clustering
+
+### Dimensionality Reduction
+
+✅ PCA
+
+### Portfolio Status
+
+🏝️ Islands Conquered: 8
+
+⚔️ Core Algorithms Mastered: 5
+
+🧠 Advanced Techniques Learned: PCA
+
 ---
 
 # 🚢 Next Islands On The Horizon
 
 * KNN Island
+* Naive Bayes Island
+* SVM Island
 * Car Price Prediction Island
 * Customer Churn Island
 * Loan Approval Island
 * Employee Attrition Island
-* PCA Island
 * Advanced Random Forest Island
 
 ---
