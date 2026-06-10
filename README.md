@@ -10,7 +10,7 @@ This repository documents my Machine Learning journey through the Grand Line of 
 
 Every island in this repository represents a completed Machine Learning project and a milestone in my learning journey.
 
-From Regression to Classification, from Clustering to Dimensionality Reduction, from Model Building to Model Evaluation, each project has helped me understand how Machine Learning models learn from data and solve real-world problems.
+From Regression to Classification, from Clustering to Dimensionality Reduction, from Model Building to Model Evaluation, and now to Hyperparameter Tuning, each project has helped me understand how Machine Learning models learn from data and solve real-world problems.
 
 ---
 
@@ -171,6 +171,46 @@ Compare multiple Machine Learning models to identify the most reliable classifie
 
 ---
 
+## 🚀 10. Optimized Student Performance Predictor Island
+
+Predict student performance and improve model results using hyperparameter tuning.
+
+### Features
+
+* Hours Studied
+* Attendance
+* Assignments Completed
+
+### Models Used
+
+* Decision Tree Classifier
+* Random Forest Classifier
+
+### Powers Unlocked
+
+* Hyperparameter Tuning
+* GridSearchCV
+* Cross Validation
+* Before vs After Tuning Comparison
+* Best Parameter Selection
+* Optimized Model Training
+* Final Test Evaluation
+
+### Hyperparameters Tuned
+
+#### Decision Tree
+
+* max_depth
+* min_samples_split
+
+#### Random Forest
+
+* n_estimators
+* max_depth
+* min_samples_split
+
+---
+
 # ⚔️ Fighting Styles Mastered
 
 ### Regression Techniques
@@ -193,10 +233,18 @@ Compare multiple Machine Learning models to identify the most reliable classifie
 
 ### Model Evaluation Techniques
 
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
 * Cross Validation
-* Accuracy Analysis
 * Model Comparison
 * Reliability Analysis
+
+### Model Optimization Techniques
+
+* Hyperparameter Tuning
+* GridSearchCV
+* Before vs After Tuning Analysis
 
 ---
 
@@ -262,6 +310,15 @@ Compare multiple Machine Learning models to identify the most reliable classifie
 * Model Comparison
 * Best Model Selection
 
+### Hyperparameter Tuning
+
+* GridSearchCV
+* Parameter Grid
+* Best Parameters
+* Best Estimator
+* Best Cross Validation Score
+* Before vs After Model Comparison
+
 ---
 
 # 🛠️ Crew Equipment
@@ -288,6 +345,7 @@ ml-projects/
 ├── 👥 07-customer-segmentation/
 ├── 🧠 08-customer-segmentation-pca/
 ├── 🏝️ 09-student-performance-model-comparison/
+├── 🚀 10-optimized-student-performance-predictor/
 └── README.md
 ```
 
@@ -297,7 +355,7 @@ ml-projects/
 
 ### Projects Completed
 
-✅ 9 Projects
+✅ 10 Projects
 
 ### Algorithms & Techniques Mastered
 
@@ -314,6 +372,10 @@ ml-projects/
 ✅ Principal Component Analysis (PCA)
 
 ✅ Cross Validation
+
+✅ GridSearchCV
+
+✅ Hyperparameter Tuning
 
 ### Skills Earned
 
@@ -340,6 +402,10 @@ ml-projects/
 ✅ Model Comparison
 
 ✅ Reliability Analysis
+
+✅ Hyperparameter Tuning
+
+✅ Model Optimization
 
 ---
 
@@ -375,9 +441,17 @@ ml-projects/
 
 ✅ Reliability Analysis
 
+### Model Optimization
+
+✅ Hyperparameter Tuning
+
+✅ GridSearchCV
+
+✅ Before vs After Tuning Comparison
+
 ### Portfolio Status
 
-🏝️ Islands Conquered: 9
+🏝️ Islands Conquered: 10
 
 ⚔️ Core Algorithms Mastered: 5
 
@@ -386,6 +460,8 @@ ml-projects/
 * PCA
 * Cross Validation
 * Model Comparison
+* Hyperparameter Tuning
+* GridSearchCV
 
 ---
 
@@ -395,6 +471,8 @@ ml-projects/
 * Naive Bayes Island
 * SVM Island
 * Feature Selection Island
+* Pipeline Island
+* RandomizedSearchCV Island
 * Car Price Prediction Island
 * Customer Churn Island
 * Loan Approval Island
